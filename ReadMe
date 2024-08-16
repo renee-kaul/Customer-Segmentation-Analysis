@@ -3,3 +3,10 @@
 ## The customer segment analysis was perfomed on open source datasets. There were two datasets used- Customer Data and Transaction Data
 ## Both the datasets were cleaned and an Exploratory Data Analysis was performed on both.
 ## They were merged and statistical tests along with an RFM analysis was performed on them to segment the customers
+## Customer segments were segmented into 5 types:
+  ### Top Customers
+  ### High value Customer
+  ### Medium Value Customer
+  ### Low Value Customers
+  ### Lost Customers
+## These segments were visualised for the purposes of presentation and analysis.
